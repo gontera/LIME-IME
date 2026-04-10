@@ -1,9 +1,9 @@
 # LIME-IME
-LIME IME v5.2.4-530 installable apk for Android, thanks to Art Hung.
-
 LIME IME v6.x, which supports Android 16, is alive after years of hiatus.  Please visit [LIME Project website](https://github.com/lime-ime/limeime/) for details and download the latest version.
 
 支援 Android 16 的 LIME IME v6.x 新版業已復活上架，請大家前往 [LIME 計畫網頁](https://github.com/lime-ime/limeime/)參閱有關訊息並下載最新版。
+
+~~LIME IME v5.2.4-530 installable apk for Android, thanks to Art Hung.~~
 
 ~~This is the last version of LIME, the universal input method framework app for Android.  Due to lack of maintenance on LIME, I place the app in .apk form here under permission of Art Hung, the lead author of LIME.  You are welcome to download, install and try LIME. The URL of official LIME-IME project is https://github.com/lime-ime/limeime.~~
 
